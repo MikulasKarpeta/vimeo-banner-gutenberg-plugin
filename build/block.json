@@ -1,0 +1,18 @@
+{
+  "apiVersion": 3,
+  "name": "minimalio-blocks/minimalio-vimeo-banner",
+  "version": "0.1.0",
+  "title": "Minimalio vimeo banner",
+  "category": "embed",
+  "icon": "format-video",
+  "description": "Example block scaffolded with Create Block tool.",
+  "example": {},
+  "supports": {
+    "html": false
+  },
+  "textdomain": "my-first-block",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css",
+  "viewScript": "file:./vimeo-banner-script.js"
+}
